@@ -29,7 +29,9 @@ pip install -r requirements.txt
 
 ### Basic Usage
 
-Place your audio file in the same directory as `transcribe.py` and run:
+Place your audio file in the same directory as `transcribe.py`.
+You can also use the extract.py to generate the audio.wav file from a video file.
+Then run:
 
 ```bash
 python transcribe.py
